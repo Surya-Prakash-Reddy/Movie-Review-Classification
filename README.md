@@ -2,7 +2,7 @@
 <h2>About Project:</h2>
 
 <p>
-  The project is about classification of reviews of movies as positive or negative.
+  The project is about classification of reviews of movies as positive or negative. The dataset is taken from the IMDB and has labels as positive or negative. The model is built using LSTM and has got accuracy over 84% with the test data.
 </p>
 
 <h2>Languages or frameworks used</h2>
